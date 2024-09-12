@@ -5,5 +5,5 @@
 
 ---
 
-![[Omnifood screenshot]('./img/ScreenShots/main.png')]
+![Omnifood screenshot]('./img/ScreenShots/main.png')
 
