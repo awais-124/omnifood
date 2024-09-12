@@ -5,5 +5,5 @@
 
 ---
 
-![Omnifood screenshot]('./img/ScreenShots/main.png')
+![Omnifood screenshot](https://github.com/awais-124/omnifood/blob/main/img/ScreenShots/main.png)
 
